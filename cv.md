@@ -1,11 +1,11 @@
 # Mykola Otsebryk
-Front End Developer
+*Front End Developer*
 
 ---
 
-:mailbox: [otsebryk@gmail.com](mailto:otsebryk@gmail.com)
-:phone: [+358449301463](tel:+358449301463)
-:octocat: [GitHub](https://github.com/otsebryk)
+:mailbox: [otsebryk@gmail.com](mailto:otsebryk@gmail.com) :  
+:phone: [+358449301463](tel:+358449301463) : 
+:octocat: [GitHub](https://github.com/otsebryk) :
 
 ---
 
@@ -37,34 +37,34 @@ Relocated to Finland in 2023 and switched fully to frontend development. Learnin
 
 ## Education
 
-**Bachelor's Degree in Computer Engineering, 2019**
+**Bachelor's Degree in Computer Engineering, 2019**. 
 International Technological University “Mykolayiv Polytechnics”. Ukraine
 *Technical foundation in software systems, algorithms, and programming.*
 
-**Degree in Law, 2005**
+**Degree in Law, 2005**.
 Odessa National University. Ukraine
 
-**JavaScript / Frontend Development Course** 
+**JavaScript / Frontend Development Course**. 
 *Sep 2026 – ongoing*
-RS School (Rolling Scopes School), 
+RS School (Rolling Scopes School).
 Free, community-driven program with project-based assessment
 
-**Web Development Fundamentals** 
-Completed 2018
+**Web Development Fundamentals**. 
+Completed 2018.
 HTML Academy
 
 ---
 
 ## Experience
 
-**Professional Transition to Software Engineering, 2023 – present**
+**Professional Transition to Software Engineering, 2023 – present**.
 - Relocated to Finland; completed integration and language programs while switching career to software engineering.
 - Working with React, JavaScript, TypeScript, and Tailwind CSS to build frontend applications.
 - Practicing Git workflows, component-based architecture, responsive design, and AI-assisted development.
 - Exploring Python, Node.js, and Next.js as part of ongoing technical growth.
 
-**Lead Legal Counsel, 2008 – 2022**
-*Port of Pivdennyi (State-Owned Enterprise), Ukraine*
+**Lead Legal Counsel, 2008 – 2022**.
+*Port of Pivdennyi (State-Owned Enterprise), Ukraine*.
 
 - Led a legal team overseeing contracts and risk assessment on large-scale infrastructure and procurement projects.
 - Analysed complex commercial documentation to support executive decision-making.
@@ -81,3 +81,9 @@ def calculate_total(prices):
         total += price
     return total
 ```
+
+## Study Proejcts
+
+[Clothes-Store](https://otsebryk.github.io/clothing-store/)
+
+*Learning project — first page built with plain HTML and CSS.*
