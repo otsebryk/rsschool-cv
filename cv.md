@@ -3,9 +3,11 @@
 
 ---
 
-:mailbox: [otsebryk@gmail.com](mailto:otsebryk@gmail.com) :  
-:phone: [+358449301463](tel:+358449301463) : 
-:octocat: [GitHub](https://github.com/otsebryk) :
+:mailbox: [otsebryk@gmail.com](mailto:otsebryk@gmail.com)
+
+:phone: [+358449301463](tel:+358449301463)
+
+:octocat: [GitHub](https://github.com/otsebryk)
 
 ---
 
@@ -13,7 +15,7 @@
 
 Frontend developer with a computer engineering background and 17+ years in legal and business roles.
 
-Strong analytical skills and attention to detail, built on managing infrastructure contracts and cross-functional teams at a state-owned enterprise.
+gitStrong analytical skills and attention to detail, built on managing infrastructure contracts and cross-functional teams at a state-owned enterprise.
 
 Relocated to Finland in 2023 and switched fully to frontend development. Learning React, Tailwind CSS, and TypeScript, with a focus on Git workflows, component architecture, and responsive design.
 
@@ -82,7 +84,7 @@ def calculate_total(prices):
     return total
 ```
 
-## Study Proejcts
+## Study Projects
 
 [Clothes-Store](https://otsebryk.github.io/clothing-store/)
 
