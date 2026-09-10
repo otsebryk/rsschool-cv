@@ -2,4 +2,4 @@
 
 ## Mykola Otsebryk
 
-[CV](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[CV](https://otsebryk.github.io/rsschool-cv/cv)
