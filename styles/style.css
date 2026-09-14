@@ -13,7 +13,7 @@ a {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    font-size: 48px;
+    font-size: 32px;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 52px;
@@ -22,6 +22,10 @@ h2 {
 p {
     font-size: 16px;
     line-height: 22px;
+}
+
+section {
+    margin-bottom: 80px;
 }
 
 /* HEADER */
@@ -50,4 +54,58 @@ p {
 
 .main-header-nav-list-item:hover {
     text-decoration: underline;
+}
+
+
+/* HERO SCREEN */
+
+.hero-screen {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.hero-screen-personal {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.contacts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.contact-font {
+    columns: #263661;
+    font-weight: bold;
+}
+
+.contacts-list-item a:hover {
+    text-decoration: underline;
+}
+
+.hero-screen-content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+
+.hero-title {
+    color: #263661;
+    font-size: 58px;
+    font-weight: 700;
+}
+
+.hero-text {
+    color: #5952FF;
+    font-size: 42px;
+    font-weight: bold;
 }
