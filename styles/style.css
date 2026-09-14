@@ -1,0 +1,25 @@
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+a {
+    color: #000;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 52px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 22px;
+}
