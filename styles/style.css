@@ -20,6 +20,15 @@ h2 {
     margin-bottom: 52px;
 }
 
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #5952FF;
+    margin-bottom: 32px;
+}
+
 p {
     font-size: 18px;
     line-height: 22px;
@@ -179,4 +188,44 @@ section {
     margin-bottom: 10px;
     margin-left: 30px;
 
+}
+
+/* PROJECTS SECTION*/
+
+.projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 40px;
+}
+
+.btn-projects {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #263661;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 22px;
+    font-weight: 500;
+    align-self: flex-start;
+
+}
+
+.btn-projects:hover {
+    background-color: #5952FF;
+}
+
+
+code {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #263661;
+    color: #abb2bf;
+    padding: 16px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1.6;
+    white-space: pre;
+    overflow-x: auto;
 }
