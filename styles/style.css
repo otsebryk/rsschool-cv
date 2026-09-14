@@ -229,3 +229,21 @@ code {
     white-space: pre;
     overflow-x: auto;
 }
+
+
+/* FOOTER */
+
+.footer-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 70%;
+    gap: 40px;
+    margin: 40px auto;
+    font-size: 18px;
+}
+
+.footer-wrapper a:hover {
+    text-decoration: underline;
+}
