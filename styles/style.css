@@ -1,0 +1,254 @@
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+a {
+    color: #000;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #263661;
+    margin-bottom: 52px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #5952FF;
+    margin-bottom: 32px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 80px;
+}
+
+/* HEADER */
+
+.main-header {
+    display: flex;
+    height: 96px;
+    margin-top: 38px;
+    justify-content: space-between;
+}
+
+.main-header-nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.header-logo {
+    font-family: "Inter", sans-serif;
+    color: #263661;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.main-header-nav-list-item {
+    font-size: 18px;
+}
+
+.main-header-nav-list-item:hover {
+    text-decoration: underline;
+}
+
+
+/* HERO SCREEN */
+
+.hero-screen {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.hero-screen-personal {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.contacts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.contact-font {
+    columns: #263661;
+    font-weight: bold;
+}
+
+.contacts-list-item a:hover {
+    text-decoration: underline;
+}
+
+.hero-screen-content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+
+.hero-title {
+    color: #263661;
+    font-size: 58px;
+    font-weight: 700;
+}
+
+.hero-text {
+    color: #5952FF;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+/* SECTION ABOUT */
+
+#about p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/*SECTION SKILLS*/
+
+.skills-list {
+
+    padding: 20px;
+}
+
+.skills-list-item {
+    list-style: disc;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.tools-title,
+.lang-style {
+    color: #263661;
+    font-weight: bold;
+}
+
+
+/* EDUCATION SECTION*/
+
+.study-title {
+    color: #263661;
+    font-weight: bold;
+}
+
+.education-institution-list-item {
+    height: 1.6;
+    margin-bottom: 20px;
+}
+
+
+/* EXPERIENCE SECTION */
+
+.experience-description {
+    color: #263661;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.experience-list-item {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.experience-list-item-description {
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.experience-list-item-description-text {
+    list-style: disc;
+    height: 1.6;
+    margin-bottom: 10px;
+    margin-left: 30px;
+
+}
+
+/* PROJECTS SECTION*/
+
+.projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 40px;
+}
+
+.btn-projects {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #263661;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 22px;
+    font-weight: 500;
+    align-self: flex-start;
+
+}
+
+.btn-projects:hover {
+    background-color: #5952FF;
+}
+
+
+code {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #263661;
+    color: #abb2bf;
+    padding: 16px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1.6;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+
+/* FOOTER */
+
+.footer-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 70%;
+    gap: 40px;
+    margin: 40px auto;
+    font-size: 18px;
+}
+
+.footer-wrapper a:hover {
+    text-decoration: underline;
+}
