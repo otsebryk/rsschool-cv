@@ -131,6 +131,7 @@ section {
 
 .skills-list-item {
     list-style: disc;
+    font-size: 18px;
     margin-bottom: 16px;
 }
 
@@ -139,3 +140,19 @@ section {
     color: #263661;
     font-weight: bold;
 }
+
+
+/* EDUCATION SECTION*/
+
+.study-title {
+    color: #263661;
+    font-weight: bold;
+}
+
+.education-institution-list-item {
+    height: 1.6;
+    margin-bottom: 20px;
+}
+
+
+/* EXPERIENCE SECTION */
